@@ -20,7 +20,6 @@
     &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap" width="40" height="40"/>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="FontAwesome" width="40" height="40"/>
   </p>
 </div>
 
@@ -70,5 +69,3 @@
 | <img src="https://img.icons8.com/color/30/font-awesome--v1.png" width="20"/> **Font Awesome** | Beautiful vector icons throughout the application |
 
 ---
-
-## 🎯 Core Functionalities
