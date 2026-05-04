@@ -70,9 +70,6 @@
 
 ---
 
-
----
-
 ## 🧩 Application Components
 
 | Component | File | Role |
