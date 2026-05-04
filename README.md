@@ -69,3 +69,22 @@
 | <img src="https://img.icons8.com/color/30/font-awesome--v1.png" width="20"/> **Font Awesome** | Beautiful vector icons throughout the application |
 
 ---
+
+
+---
+
+## 🧩 Application Components
+
+| Component | File | Role |
+|-----------|------|------|
+| Main Dashboard | `index.php` | Display tasks, statistics, and add form |
+| Edit Interface | `edit_task.php` | Dedicated page for modifying tasks |
+| Database Config | `db_connection.php` | PDO connection setup |
+| Add Handler | `add_task.php` | Process new task creation |
+| Update Handler | `update_task.php` | Process task modifications |
+| Toggle Handler | `toggle_task.php` | Switch task completion status |
+| Delete Handler | `delete_task.php` | Remove individual tasks |
+| Bulk Delete | `delete_all.php` | Remove all tasks at once |
+| Styling | `style.css` | Complete application design |
+
+---
