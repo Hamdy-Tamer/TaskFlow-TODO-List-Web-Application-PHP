@@ -83,5 +83,3 @@
 | Delete Handler | `delete_task.php` | Remove individual tasks |
 | Bulk Delete | `delete_all.php` | Remove all tasks at once |
 | Styling | `style.css` | Complete application design |
-
----
